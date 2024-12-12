@@ -1,8 +1,8 @@
-![](https://github.com/SwagataDas123/SwagataDas123/blob/main/gif-banner.gif)
+![](https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif)
 <h1 align="center">Welcome to my profile</h1>
 <h2 align="center">Hi 👋, I'm Swagata Das</h2>
 <h3 align="center">A highly motivated CSE student from India pursuing B. Tech , with a passion for technology and programming. Participated in hackathons and group projects enhancing teamwork skills. Engaged on platforms like Leet code and Kaggle for enhancing my problem solving skills being an ML and Data Science enthusiast with a love for front end web development as well.</h3> 
-<img src="https://giffiles.alphacoders.com/398/3987.gif" alt="Happy to see you" width="500" height="600">
+<img src="https://giffiles.alphacoders.com/221/221812.gif" alt="Happy to see you" width="500" height="600">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagatadas123&label=Profile%20views&color=0e75b6&style=flat" alt="swagatadas123" /> </p>
 
 - 🔭 I’m currently working on **ML and web development**

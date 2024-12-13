@@ -1,7 +1,7 @@
 ![](https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif)
 <h1 align="center">Welcome to my profile</h1>
 <h2 align="center">Hi 👋, I'm Swagata Das</h2>
-<h3 align="center">A highly motivated CSE student from India pursuing B. Tech , with a passion for technology and programming. Participated in hackathons and group projects enhancing teamwork skills. Engaged on platforms like Leet code and Kaggle for enhancing my problem solving skills being an ML and Data Science enthusiast with a love for front end web development as well.</h3> 
+<h3 align="center">A highly motivated CSE student from India with a B. Tech degree, with a passion for technology and programming. Participated in hackathons and group projects enhancing teamwork skills. Engaged on platforms like Leet code and Kaggle for enhancing my problem solving skills being an ML and Data Science enthusiast with a love for front end web development as well.</h3> 
 <img src="https://blog.hyperiondev.com/wp-content/uploads/2021/01/Software_Engineering.gif" alt="Happy to see you" width="800" height="600" align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagatadas123&label=Profile%20views&color=0e75b6&style=flat" alt="swagatadas123" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI and web development(front end)**
 
-- I am familiar with C,JAVA,PYTHON,front end web dev,ML
+- I am familiar with C,JAVA,PYTHON,SQL(ORACLE),front end web dev,ML
 
 - 📫 How to reach me **sdas23366@gmail.com**
 
